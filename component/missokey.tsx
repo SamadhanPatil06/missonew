@@ -5,14 +5,14 @@ import Image from 'next/image'
 const keyPointsData = [
     {
         id: "01",
-        title: "3D bone model with fast and easy CT image data",
+        title: "Saves time in or",
         image: "/2.webp",
         gradientFrom: "#7F73DC",
         gradientTo: "#AB77D9"
     },
     {
         id: "02",
-        title: "Saves time in  OR",
+        title: "Quick  calibration, verification & registration",
         image: "/4.webp",
         gradientFrom: "#7F73DC",
         gradientTo: "#AB77D9"
@@ -21,6 +21,13 @@ const keyPointsData = [
         id: "03",
         title: "Improved workspace check",
         image: "/personalized3.webp",
+        gradientFrom: "#7F73DC",
+        gradientTo: "#AB77D9"
+    },
+    {
+        id: "03",
+        title: "3D bone model with fast and easy CT image data",
+        image: "/personalized.webp",
         gradientFrom: "#7F73DC",
         gradientTo: "#AB77D9"
     },
