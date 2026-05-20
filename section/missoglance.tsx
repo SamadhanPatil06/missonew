@@ -12,7 +12,7 @@ const missoglance = () => {
                 </div>
                 <div className='pt-6'>
                     {/* TODO: Convert MOV to MP4 for better performance */}
-                    <video src="Low_MISSO Teaser Video (1).mp4" className='h-[70vh] rounded-[65px] min-h-full min-w-full object-cover' autoPlay loop muted playsInline>
+                    <video src="/video/Low_MISSO Teaser Video (1).mp4" className='h-[70vh] rounded-[65px] min-h-full min-w-full object-cover' autoPlay loop muted playsInline>
                     </video>
                 </div>
                 {/* <div className='max-w-300 mx-auto text-center text-[60px] font-bold leading-25'>

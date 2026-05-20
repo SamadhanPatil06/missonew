@@ -16,7 +16,7 @@ const Missomark = () => {
 
         {/* Video as background */}
         <video
-          src="/a.mp4"
+          src="/video/a.mp4"
           autoPlay
           loop
           muted

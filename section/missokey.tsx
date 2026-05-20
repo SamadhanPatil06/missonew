@@ -6,28 +6,28 @@ const keyPointsData = [
     {
         id: "01",
         title: "Saves time in or",
-        image: "/2.webp",
+        image: "/images/2.webp",
         gradientFrom: "#7F73DC",
         gradientTo: "#AB77D9"
     },
     {
         id: "02",
         title: "Quick  calibration, verification & registration",
-        image: "/4.webp",
+        image: "/images/4.webp",
         gradientFrom: "#7F73DC",
         gradientTo: "#AB77D9"
     },
     {
         id: "03",
         title: "Improved workspace check",
-        image: "/personalized3.webp",
+        image: "/images/personalized3.webp",
         gradientFrom: "#7F73DC",
         gradientTo: "#AB77D9"
     },
     {
         id: "03",
         title: "3D bone model with fast and easy CT image data",
-        image: "/personalized.webp",
+        image: "/images/personalized.webp",
         gradientFrom: "#7F73DC",
         gradientTo: "#AB77D9"
     },

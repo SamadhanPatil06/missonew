@@ -4,7 +4,7 @@ import Image from 'next/image'
 
 const missoglobal = () => {
   return (
-    <div className="min-h-screen relative bg-black bg-[url('/mask.png')] bg-bottom bg-cover flex items-center overflow-x-hidden">
+    <div className="min-h-screen relative bg-black bg-[url('/images/mask.png')] bg-bottom bg-cover flex items-center overflow-x-hidden">
       <div className='w-full max-w-7xl mx-auto py-6 px-4'>
       <div className='grid grid-cols-1 md:grid-cols-5 items-center gap-6 md:gap-10'>
           <div className='text-white col-span-3 pb-0 md:space-y-12'>

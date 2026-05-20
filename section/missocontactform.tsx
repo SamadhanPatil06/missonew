@@ -4,7 +4,7 @@ import { url } from 'inspector'
 
 const missocontactform = () => {
     return (
-        <div className=' bg-black relative bg-cover bg-center' style={{ backgroundImage: "url(/contact_desktop.png)" }}>
+        <div className=' bg-black relative bg-cover bg-center' style={{ backgroundImage: "url(/images/contact_desktop.png)" }}>
             <div className='max-w-300 mx-auto px-6 pb-20 pt-10'>
                 <div className='text-left md:text-center text-[32px] md:text-[46px] font-bold leading-25 text-[#A961B5]'>
                     Contact <span className='text-white font-normal'>Us</span>
