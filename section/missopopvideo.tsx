@@ -43,7 +43,7 @@ const Missopopvideo = () => {
           {!showVideo ? (
             <>
               <img
-                src="/video_thumbnail.png"
+                src="/images/video_thumbnail.png"
                 alt=""
                 className="w-full h-full object-cover rounded-lg"
               />
@@ -56,7 +56,7 @@ const Missopopvideo = () => {
             </>
           ) : (
             <video
-              src="/Low_MISSO Teaser Video (1).mp4"
+              src="/video/Low_MISSO Teaser Video (1).mp4"
               controls
               autoPlay
               className="w-full h-full object-cover rounded-lg"
