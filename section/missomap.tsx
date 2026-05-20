@@ -8,7 +8,7 @@ const missomap = () => {
                     <h3>Explore Our Global Presence</h3>
                     <h3 className='font-medium'>Mapping Our Worldwide Footprint</h3>
                     
-                         <Image src="/map.svg" alt="World Map" width={1280} height={720} />
+                         <Image src="/images/map.svg" alt="World Map" width={1280} height={720} />
                      
                 </div>
             </div>
