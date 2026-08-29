@@ -33,7 +33,7 @@ const page = () => {
       <Missocontactform/> 
       <Missomap/>
       <Missofooter/>
-      <Missopopvideo/>
+      {/* <Missopopvideo/> */}
     </div>
   )
 }
